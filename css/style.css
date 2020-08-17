@@ -4,11 +4,8 @@
     font-family: 'Rock Salt', cursive;
 }
 
-h1 {
-    color: red;
-}
-
 #repo_card_image {
     height: 600px;
     width: 100px;
 }
+
